@@ -1,0 +1,8 @@
+C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\Soft_Seguros_vII\bin\Debug\Soft_Seguros_vII.exe
+C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\Soft_Seguros_vII\bin\Debug\Soft_Seguros_vII.pdb
+C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\Soft_Seguros_vII\obj\x86\Debug\Soft_Seguros_vII.frm_master.resources
+C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\Soft_Seguros_vII\obj\x86\Debug\Soft_Seguros_vII.Properties.Resources.resources
+C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\Soft_Seguros_vII\obj\x86\Debug\Soft_Seguros_vII.csproj.GenerateResource.Cache
+C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\Soft_Seguros_vII\obj\x86\Debug\Soft_Seguros_vII.exe
+C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\Soft_Seguros_vII\obj\x86\Debug\Soft_Seguros_vII.pdb
+C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\Soft_Seguros_vII\obj\x86\Debug\Soft_Seguros_vII.frm_login.resources

@@ -1,0 +1,7 @@
+C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\DAL\bin\Debug\DAL.dll
+C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\DAL\bin\Debug\DAL.pdb
+C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\DAL\obj\Debug\DAL.dll
+C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\DAL\obj\Debug\DAL.pdb
+C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\DAL\bin\Debug\DTO.dll
+C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\DAL\bin\Debug\DTO.pdb

@@ -1,0 +1,5 @@
+C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\Modelo\bin\Debug\DTO.dll
+C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\Modelo\bin\Debug\DTO.pdb
+C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\Modelo\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\Modelo\obj\Debug\DTO.dll
+C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\Modelo\obj\Debug\DTO.pdb

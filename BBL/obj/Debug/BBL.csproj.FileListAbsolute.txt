@@ -1,0 +1,9 @@
+C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\BBL\bin\Debug\BBL.dll
+C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\BBL\bin\Debug\BBL.pdb
+C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\BBL\bin\Debug\DAL.dll
+C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\BBL\bin\Debug\Modelo.dll
+C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\BBL\bin\Debug\DAL.pdb
+C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\BBL\bin\Debug\Modelo.pdb
+C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\BBL\obj\Debug\BBL.csprojResolveAssemblyReference.cache
+C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\BBL\obj\Debug\BBL.dll
+C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\BBL\obj\Debug\BBL.pdb
