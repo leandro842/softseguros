@@ -1,0 +1,83 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="FormularioPrincipal.master.cs" Inherits="PIMSoftwareSeguro.FormularioPrincipal" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <link href="App_Themes/CSS/Estilos.css" rel="stylesheet" type="stylesheet" />
+    <title>
+        Software de Seguro Veicular.PIM 2015
+    </title>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="cphTitulo" runat="server">
+            <div id="dvTitulo">
+                <table width="1200">
+                    <tr>
+                        <td height="200" class="clsTitulo" align="center" valign="middle">
+                            Software de Seguro Veicular.PIM 2015
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </asp:ContentPlaceHolder>
+
+        <asp:ContentPlaceHolder ID="cphMenu" runat="server">
+            <div id="dvMenu">
+                <table width="1200">
+                    <tr>
+                        <td width="300" height="50" class="clsTextoMenu">
+                           <a href="Default.aspx">
+                            Página Principal
+                           </a>
+                        </td>
+                        <td width="300" height="50" class="clsTextoMenu">
+                           <a href="Cotacao.aspx">
+                            Faça há uma cotação
+                           </a>
+                        </td>
+                        <td width="300" height="50" class="clsTextoMenu">
+                           <a href="Sobre.aspx">
+                            Conheça mais sobre a empresa!
+                           </a>
+                        </td>
+                        <td width="300" height="50" class="clsTextoMenu">
+                           <a href="Contato.aspx">
+                            Contatos
+                           </a>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </asp:ContentPlaceHolder>
+        <asp:ContentPlaceHolder ID="cphcphCorpoPrincipal" runat="server">
+            <div id="dvCorpoPrincipal">
+                <table width="1200">
+                    <tr>
+                        <td height="400" class="clsTextoCorpo" align="center" valign="middle">
+                            Pagina Principal
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </asp:ContentPlaceHolder>
+        <asp:ContentPlaceHolder ID="cphRodape" runat="server">
+            <div id="dvRodape">
+                <table width="1200">
+                    <tr>
+                        <td height="20" class="clsTextoRodape" align="center" valign="middle">
+                            PIM 4.Segundo semestre de 2015.UNIP
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

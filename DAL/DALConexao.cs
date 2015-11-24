@@ -1,12 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
+using System.Web;
 using MySql.Data.MySqlClient;
 
-// data access layer Camada de acesso a dados - DAL - responsável por realizar 
-//o acesso e a persistência aos dados fazendo a comunicação entre a BLL e UI
-namespace DAL 
+namespace DAL
 {
     public class DALConexao
     {

@@ -1,7 +1,46 @@
-C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\DAL\bin\Debug\DAL.dll
-C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\DAL\bin\Debug\DAL.pdb
-C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
-C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\DAL\obj\Debug\DAL.dll
-C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\DAL\obj\Debug\DAL.pdb
-C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\DAL\bin\Debug\DTO.dll
-C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\DAL\bin\Debug\DTO.pdb
+C:\Users\RauanFelipe\Desktop\PIMSoftwareSeguro\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\RauanFelipe\Desktop\PIMSoftwareSeguro\DAL\bin\DAL.dll
+C:\Users\RauanFelipe\Desktop\PIMSoftwareSeguro\DAL\bin\DAL.pdb
+C:\Users\RauanFelipe\Desktop\PIMSoftwareSeguro\DAL\bin\DTO.dll
+C:\Users\RauanFelipe\Desktop\PIMSoftwareSeguro\DAL\bin\DTO.pdb
+C:\Users\RauanFelipe\Desktop\PIMSoftwareSeguro\DAL\obj\Debug\DAL.dll
+C:\Users\RauanFelipe\Desktop\PIMSoftwareSeguro\DAL\obj\Debug\DAL.pdb
+C:\Users\Leandro\Nova pasta\PIMSoftwareSeguro\DAL\bin\DAL.dll.config
+C:\Users\Leandro\Nova pasta\PIMSoftwareSeguro\DAL\bin\DAL.dll
+C:\Users\Leandro\Nova pasta\PIMSoftwareSeguro\DAL\bin\DAL.pdb
+C:\Users\Leandro\Nova pasta\PIMSoftwareSeguro\DAL\bin\DTO.dll
+C:\Users\Leandro\Nova pasta\PIMSoftwareSeguro\DAL\bin\DTO.pdb
+C:\Users\Leandro\Nova pasta\PIMSoftwareSeguro\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\Nova pasta\PIMSoftwareSeguro\DAL\obj\Debug\DAL.dll
+C:\Users\Leandro\Nova pasta\PIMSoftwareSeguro\DAL\obj\Debug\DAL.pdb
+C:\Users\Leandro\PIM Web Atual\PIMSoftwareSeguro\DAL\bin\DAL.dll.config
+C:\Users\Leandro\PIM Web Atual\PIMSoftwareSeguro\DAL\bin\DAL.dll
+C:\Users\Leandro\PIM Web Atual\PIMSoftwareSeguro\DAL\bin\DAL.pdb
+C:\Users\Leandro\PIM Web Atual\PIMSoftwareSeguro\DAL\bin\DTO.dll
+C:\Users\Leandro\PIM Web Atual\PIMSoftwareSeguro\DAL\bin\DTO.pdb
+C:\Users\Leandro\PIM Web Atual\PIMSoftwareSeguro\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\PIM Web Atual\PIMSoftwareSeguro\DAL\obj\Debug\DAL.dll
+C:\Users\Leandro\PIM Web Atual\PIMSoftwareSeguro\DAL\obj\Debug\DAL.pdb
+C:\Users\RauanFelipe\Downloads\PIM Web Atual 2\PIMSoftwareSeguro\DAL\bin\DAL.dll
+C:\Users\RauanFelipe\Downloads\PIM Web Atual 2\PIMSoftwareSeguro\DAL\bin\DAL.pdb
+C:\Users\RauanFelipe\Downloads\PIM Web Atual 2\PIMSoftwareSeguro\DAL\bin\DTO.dll
+C:\Users\RauanFelipe\Downloads\PIM Web Atual 2\PIMSoftwareSeguro\DAL\bin\DTO.pdb
+C:\Users\RauanFelipe\Downloads\PIM Web Atual 2\PIMSoftwareSeguro\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\RauanFelipe\Downloads\PIM Web Atual 2\PIMSoftwareSeguro\DAL\obj\Debug\DAL.dll
+C:\Users\RauanFelipe\Downloads\PIM Web Atual 2\PIMSoftwareSeguro\DAL\obj\Debug\DAL.pdb
+C:\Users\Leandro\PIM WEB FINAL\PIMSoftwareSeguro\DAL\bin\DAL.dll.config
+C:\Users\Leandro\PIM WEB FINAL\PIMSoftwareSeguro\DAL\bin\DAL.dll
+C:\Users\Leandro\PIM WEB FINAL\PIMSoftwareSeguro\DAL\bin\DAL.pdb
+C:\Users\Leandro\PIM WEB FINAL\PIMSoftwareSeguro\DAL\bin\DTO.dll
+C:\Users\Leandro\PIM WEB FINAL\PIMSoftwareSeguro\DAL\bin\DTO.pdb
+C:\Users\Leandro\PIM WEB FINAL\PIMSoftwareSeguro\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\PIM WEB FINAL\PIMSoftwareSeguro\DAL\obj\Debug\DAL.dll
+C:\Users\Leandro\PIM WEB FINAL\PIMSoftwareSeguro\DAL\obj\Debug\DAL.pdb
+C:\Users\Leandro\PIM WEB FINAL rev\PIMSoftwareSeguro\DAL\bin\DAL.dll.config
+C:\Users\Leandro\PIM WEB FINAL rev\PIMSoftwareSeguro\DAL\bin\DAL.dll
+C:\Users\Leandro\PIM WEB FINAL rev\PIMSoftwareSeguro\DAL\bin\DAL.pdb
+C:\Users\Leandro\PIM WEB FINAL rev\PIMSoftwareSeguro\DAL\bin\DTO.dll
+C:\Users\Leandro\PIM WEB FINAL rev\PIMSoftwareSeguro\DAL\bin\DTO.pdb
+C:\Users\Leandro\PIM WEB FINAL rev\PIMSoftwareSeguro\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\PIM WEB FINAL rev\PIMSoftwareSeguro\DAL\obj\Debug\DAL.dll
+C:\Users\Leandro\PIM WEB FINAL rev\PIMSoftwareSeguro\DAL\obj\Debug\DAL.pdb

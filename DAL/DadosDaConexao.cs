@@ -1,8 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
+using System.Web;
 using MySql.Data.MySqlClient;
+
 
 namespace DAL
 {
@@ -12,7 +13,7 @@ namespace DAL
         {
             get
             {
-                return "datasource=localhost;port=3306;username=root;password=123456;database=softseguros";                 
+                return "datasource=localhost;port=3306;username=root;password=manager;database=softseguros";
             }
         }
     }

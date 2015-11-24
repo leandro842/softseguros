@@ -1,9 +1,0 @@
-C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\BBL\bin\Debug\DAL.dll
-C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\BBL\bin\Debug\DAL.pdb
-C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\BBL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
-C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\BBL\bin\Debug\BLL.dll
-C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\BBL\bin\Debug\BLL.pdb
-C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\BBL\obj\Debug\BLL.dll
-C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\BBL\obj\Debug\BLL.pdb
-C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\BBL\bin\Debug\DTO.dll
-C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\BBL\bin\Debug\DTO.pdb

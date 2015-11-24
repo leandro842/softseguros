@@ -1,0 +1,28 @@
+C:\Users\RauanFelipe\Desktop\PIMSoftwareSeguro\DTO\bin\DTO.dll
+C:\Users\RauanFelipe\Desktop\PIMSoftwareSeguro\DTO\bin\DTO.pdb
+C:\Users\RauanFelipe\Desktop\PIMSoftwareSeguro\DTO\obj\Debug\DTO.dll
+C:\Users\RauanFelipe\Desktop\PIMSoftwareSeguro\DTO\obj\Debug\DTO.pdb
+C:\Users\RauanFelipe\Desktop\PIMSoftwareSeguro\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\PIM Web Atual\PIMSoftwareSeguro\DTO\bin\DTO.dll.config
+C:\Users\Leandro\PIM Web Atual\PIMSoftwareSeguro\DTO\bin\DTO.dll
+C:\Users\Leandro\PIM Web Atual\PIMSoftwareSeguro\DTO\bin\DTO.pdb
+C:\Users\Leandro\PIM Web Atual\PIMSoftwareSeguro\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\PIM Web Atual\PIMSoftwareSeguro\DTO\obj\Debug\DTO.dll
+C:\Users\Leandro\PIM Web Atual\PIMSoftwareSeguro\DTO\obj\Debug\DTO.pdb
+C:\Users\RauanFelipe\Downloads\PIM Web Atual 2\PIMSoftwareSeguro\DTO\bin\DTO.dll
+C:\Users\RauanFelipe\Downloads\PIM Web Atual 2\PIMSoftwareSeguro\DTO\bin\DTO.pdb
+C:\Users\RauanFelipe\Downloads\PIM Web Atual 2\PIMSoftwareSeguro\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\RauanFelipe\Downloads\PIM Web Atual 2\PIMSoftwareSeguro\DTO\obj\Debug\DTO.dll
+C:\Users\RauanFelipe\Downloads\PIM Web Atual 2\PIMSoftwareSeguro\DTO\obj\Debug\DTO.pdb
+C:\Users\Leandro\PIM WEB FINAL\PIMSoftwareSeguro\DTO\bin\DTO.dll.config
+C:\Users\Leandro\PIM WEB FINAL\PIMSoftwareSeguro\DTO\bin\DTO.dll
+C:\Users\Leandro\PIM WEB FINAL\PIMSoftwareSeguro\DTO\bin\DTO.pdb
+C:\Users\Leandro\PIM WEB FINAL\PIMSoftwareSeguro\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\PIM WEB FINAL\PIMSoftwareSeguro\DTO\obj\Debug\DTO.dll
+C:\Users\Leandro\PIM WEB FINAL\PIMSoftwareSeguro\DTO\obj\Debug\DTO.pdb
+C:\Users\Leandro\PIM WEB FINAL rev\PIMSoftwareSeguro\DTO\bin\DTO.dll.config
+C:\Users\Leandro\PIM WEB FINAL rev\PIMSoftwareSeguro\DTO\bin\DTO.dll
+C:\Users\Leandro\PIM WEB FINAL rev\PIMSoftwareSeguro\DTO\bin\DTO.pdb
+C:\Users\Leandro\PIM WEB FINAL rev\PIMSoftwareSeguro\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\PIM WEB FINAL rev\PIMSoftwareSeguro\DTO\obj\Debug\DTO.dll
+C:\Users\Leandro\PIM WEB FINAL rev\PIMSoftwareSeguro\DTO\obj\Debug\DTO.pdb

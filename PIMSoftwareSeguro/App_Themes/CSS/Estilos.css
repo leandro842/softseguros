@@ -1,0 +1,32 @@
+﻿body {
+    background-color: azure;
+    font-family: Constantia;
+    font-size: large;
+    font-weight: 300;
+}
+
+.classTextoSobreCorpo {
+    font-weight: 900;
+    font-style: oblique;
+}
+
+.classTextoSobre {
+    font-size: xx-large;
+    font-weight: 900;
+    font-style: oblique;
+    color: cornflowerblue;
+}
+
+.classInfoContato {
+    width: 500px;
+    height: 50px;
+    text-align: left;
+    vertical-align: middle;
+}
+
+.classLabelInfoContato {
+    width: 200px;
+    height: 50px;
+    text-align: left;
+    vertical-align: middle;
+}

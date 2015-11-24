@@ -1,0 +1,43 @@
+c:\users\kbral\documents\visual studio 2010\Projects\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\PIMSoftwareSeguro.dll
+c:\users\kbral\documents\visual studio 2010\Projects\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\PIMSoftwareSeguro.pdb
+c:\users\kbral\documents\visual studio 2010\Projects\PIMSoftwareSeguro\PIMSoftwareSeguro\obj\Debug\PIMSoftwareSeguro.dll
+c:\users\kbral\documents\visual studio 2010\Projects\PIMSoftwareSeguro\PIMSoftwareSeguro\obj\Debug\PIMSoftwareSeguro.pdb
+C:\Users\Kbral\Documents\Visual Studio 2010\Projects\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\PIMSoftwareSeguro.dll.config
+C:\Users\Kbral\Documents\Visual Studio 2010\Projects\PIMSoftwareSeguro\PIMSoftwareSeguro\obj\Debug\PIMSoftwareSeguro.csprojResolveAssemblyReference.cache
+C:\Users\Kbral\Documents\Visual Studio 2010\Projects\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\EntityFramework.dll
+C:\Users\Kbral\Documents\Visual Studio 2010\Projects\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\EntityFramework.SqlServer.dll
+C:\Users\Kbral\Documents\Visual Studio 2010\Projects\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\MySql.Data.dll
+C:\Users\Kbral\Documents\Visual Studio 2010\Projects\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Kbral\Documents\Visual Studio 2010\Projects\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\EntityFramework.xml
+C:\Users\Kbral\Documents\Visual Studio 2010\Projects\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\EntityFramework.SqlServer.xml
+C:\Users\Leandro\Documents\GitHub\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\PIMSoftwareSeguro.dll.config
+C:\Users\Leandro\Documents\GitHub\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\PIMSoftwareSeguro.dll
+C:\Users\Leandro\Documents\GitHub\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\PIMSoftwareSeguro.pdb
+C:\Users\Leandro\Documents\GitHub\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\EntityFramework.dll
+C:\Users\Leandro\Documents\GitHub\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\EntityFramework.SqlServer.dll
+C:\Users\Leandro\Documents\GitHub\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Leandro\Documents\GitHub\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\EntityFramework.xml
+C:\Users\Leandro\Documents\GitHub\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\EntityFramework.SqlServer.xml
+C:\Users\Leandro\Documents\GitHub\PIMSoftwareSeguro\PIMSoftwareSeguro\obj\Debug\PIMSoftwareSeguro.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\Documents\GitHub\PIMSoftwareSeguro\PIMSoftwareSeguro\obj\Debug\PIMSoftwareSeguro.dll
+C:\Users\Leandro\Documents\GitHub\PIMSoftwareSeguro\PIMSoftwareSeguro\obj\Debug\PIMSoftwareSeguro.pdb
+C:\Users\RauanFelipe\AppData\Roaming\Skype\My Skype Received Files\PIMSoftwareSeguro\PIMSoftwareSeguro\obj\Debug\PIMSoftwareSeguro.csprojResolveAssemblyReference.cache
+C:\Users\RauanFelipe\AppData\Roaming\Skype\My Skype Received Files\PIMSoftwareSeguro\PIMSoftwareSeguro\obj\Debug\PIMSoftwareSeguro.dll
+C:\Users\RauanFelipe\AppData\Roaming\Skype\My Skype Received Files\PIMSoftwareSeguro\PIMSoftwareSeguro\obj\Debug\PIMSoftwareSeguro.pdb
+C:\Users\RauanFelipe\AppData\Roaming\Skype\My Skype Received Files\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\PIMSoftwareSeguro.dll
+C:\Users\RauanFelipe\AppData\Roaming\Skype\My Skype Received Files\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\PIMSoftwareSeguro.pdb
+C:\Users\RauanFelipe\AppData\Roaming\Skype\My Skype Received Files\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\EntityFramework.dll
+C:\Users\RauanFelipe\AppData\Roaming\Skype\My Skype Received Files\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\EntityFramework.SqlServer.dll
+C:\Users\RauanFelipe\AppData\Roaming\Skype\My Skype Received Files\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\MySql.Data.Entity.EF6.dll
+C:\Users\RauanFelipe\AppData\Roaming\Skype\My Skype Received Files\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\EntityFramework.xml
+C:\Users\RauanFelipe\AppData\Roaming\Skype\My Skype Received Files\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\EntityFramework.SqlServer.xml
+C:\Users\RauanFelipe\Desktop\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\PIMSoftwareSeguro.dll
+C:\Users\RauanFelipe\Desktop\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\PIMSoftwareSeguro.pdb
+C:\Users\RauanFelipe\Desktop\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\EntityFramework.dll
+C:\Users\RauanFelipe\Desktop\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\EntityFramework.SqlServer.dll
+C:\Users\RauanFelipe\Desktop\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\MySql.Data.Entity.EF6.dll
+C:\Users\RauanFelipe\Desktop\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\EntityFramework.xml
+C:\Users\RauanFelipe\Desktop\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\EntityFramework.SqlServer.xml
+C:\Users\RauanFelipe\Desktop\PIMSoftwareSeguro\PIMSoftwareSeguro\obj\Debug\PIMSoftwareSeguro.csprojResolveAssemblyReference.cache
+C:\Users\RauanFelipe\Desktop\PIMSoftwareSeguro\PIMSoftwareSeguro\obj\Debug\PIMSoftwareSeguro.dll
+C:\Users\RauanFelipe\Desktop\PIMSoftwareSeguro\PIMSoftwareSeguro\obj\Debug\PIMSoftwareSeguro.pdb

@@ -1,5 +1,0 @@
-C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\Modelo\bin\Debug\Modelo.dll
-C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\Modelo\bin\Debug\Modelo.pdb
-C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\Modelo\obj\Debug\Modelo.dll
-C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\Modelo\obj\Debug\Modelo.pdb
-C:\Users\RauanFelipe\Desktop\Soft_Seguros_vII\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
